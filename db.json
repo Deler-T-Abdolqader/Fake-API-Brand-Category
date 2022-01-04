@@ -514,56 +514,11 @@
         },
         {
             "id": 96,
-            "name": "Category 8_1_1",
-            "parentId": 30
-        },
-        {
-            "id": 97,
-            "name": "Category 8_1_2",
-            "parentId": 30
-        },
-        {
-            "id": 98,
-            "name": "Category 8_1_3",
-            "parentId": 30
-        },
-        {
-            "id": 99,
-            "name": "Category 8_2_1",
-            "parentId": 31
-        },
-        {
-            "id": 100,
-            "name": "Category 8_2_2",
-            "parentId": 31
-        },
-        {
-            "id": 101,
-            "name": "Category 8_2_3",
-            "parentId": 31
-        },
-        {
-            "id": 102,
-            "name": "Category 8_3_1",
-            "parentId": 32
-        },
-        {
-            "id": 103,
-            "name": "Category 8_3_2",
-            "parentId": 32
-        },
-        {
-            "id": 104,
-            "name": "Category 8_3_3",
-            "parentId": 32
-        },
-        {
-            "id": 105,
             "name": "Category 1_1_1_1",
             "parentId": 33
         },
         {
-            "id": 106,
+            "id": 97,
             "name": "Category 1_1_1_2",
             "parentId": 33
         }
