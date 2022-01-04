@@ -320,11 +320,6 @@
             "parentId": 17
         },
         {
-            "id": 58,
-            "name": "Category 3_3_2",
-            "parentId": 17
-        },
-        {
             "id": 59,
             "name": "Category 3_3_3",
             "parentId": 17
@@ -337,11 +332,6 @@
         {
             "id": 61,
             "name": "Category 4_1_2",
-            "parentId": 18
-        },
-        {
-            "id": 62,
-            "name": "Category 4_1_3",
             "parentId": 18
         },
         {
@@ -371,12 +361,6 @@
         }
         ,
         {
-            "id": 68,
-            "name": "Category 4_3_3",
-            "parentId": 20
-        }
-        ,
-        {
             "id": 69,
             "name": "Category 5_1_1",
             "parentId": 21
@@ -402,18 +386,8 @@
             "parentId": 22
         },
         {
-            "id": 75,
-            "name": "Category 5_3_1",
-            "parentId": 23
-        },
-        {
             "id": 76,
             "name": "Category 5_3_2",
-            "parentId": 23
-        },
-        {
-            "id": 77,
-            "name": "Category 5_3_3",
             "parentId": 23
         },
         {
@@ -434,11 +408,6 @@
         {
             "id": 82,
             "name": "Category 6_2_2",
-            "parentId": 25
-        },
-        {
-            "id": 83,
-            "name": "Category 6_2_3",
             "parentId": 25
         },
         {
@@ -475,11 +444,6 @@
         {
             "id": 94,
             "name": "Category 7_3_2",
-            "parentId": 29
-        },
-        {
-            "id": 95,
-            "name": "Category 7_3_3",
             "parentId": 29
         },
         {
