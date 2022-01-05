@@ -37,535 +37,638 @@
         {
             "id": 1,
             "name": "Category 1",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 2,
             "name": "Category 2",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 3,
             "name": "Category 3",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 4,
             "name": "Category 4",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 5,
             "name": "Category 5",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 6,
             "name": "Category 6",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 7,
             "name": "Category 7",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 8,
             "name": "Category 8",
-            "parentId": null
+            "parentId": "0",
+            "hasChild": true
         },
         {
             "id": 9,
             "name": "Category 1_1",
-            "parentId": 1
+            "parentId": 1,
+            "hasChild": true
         },
         {
             "id": 10,
             "name": "Category 1_2",
-            "parentId": 1
+            "parentId": 1,
+            "hasChild": true
         },
         {
             "id": 11,
             "name": "Category 1_3",
-            "parentId": 1
+            "parentId": 1,
+            "hasChild": true
         },
         {
             "id": 12,
             "name": "Category 2_1",
-            "parentId": 2
+            "parentId": 2,
+            "hasChild": true
         },
         {
             "id": 13,
             "name": "Category 2_2",
-            "parentId": 2
+            "parentId": 2,
+            "hasChild": true
         },
         {
             "id": 14,
             "name": "Category 2_3",
-            "parentId": 2
+            "parentId": 2,
+            "hasChild": true
         },
         {
             "id": 15,
             "name": "Category 3_1",
-            "parentId": 3
+            "parentId": 3,
+            "hasChild": true
         },
         {
             "id": 16,
             "name": "Category 3_2",
-            "parentId": 3
+            "parentId": 3,
+            "hasChild": true
         },
         {
             "id": 17,
             "name": "Category 3_3",
-            "parentId": 3
+            "parentId": 3,
+            "hasChild": true
         },
         {
             "id": 18,
             "name": "Category 4_1",
-            "parentId": 4
+            "parentId": 4,
+            "hasChild": true
         },
         {
             "id": 19,
             "name": "Category 4_2",
-            "parentId": 4
+            "parentId": 4,
+            "hasChild": true
         },
         {
             "id": 20,
             "name": "Category 4_3",
-            "parentId": 4
+            "parentId": 4,
+            "hasChild": true
         },
         {
             "id": 21,
             "name": "Category 5_1",
-            "parentId": 5
+            "parentId": 5,
+            "hasChild": true
         },
         {
             "id": 22,
             "name": "Category 5_2",
-            "parentId": 5
+            "parentId": 5,
+            "hasChild": true
         },
         {
             "id": 23,
             "name": "Category 5_3",
-            "parentId": 5
+            "parentId": 5,
+            "hasChild": true
         },
         {
             "id": 24,
             "name": "Category 6_1",
-            "parentId": 6
+            "parentId": 6,
+            "hasChild": true
         },
         {
             "id": 25,
             "name": "Category 6_2",
-            "parentId": 6
+            "parentId": 6,
+            "hasChild": true
         },
         {
             "id": 26,
             "name": "Category 6_3",
-            "parentId": 6
+            "parentId": 6,
+            "hasChild": true
         },
         {
             "id": 27,
             "name": "Category 7_1",
-            "parentId": 7
+            "parentId": 7,
+            "hasChild": true
         },
         {
             "id": 28,
             "name": "Category 7_2",
-            "parentId": 7
+            "parentId": 7,
+            "hasChild": true
         },
         {
             "id": 29,
             "name": "Category 7_3",
-            "parentId": 7
+            "parentId": 7,
+            "hasChild": true
         },
         {
             "id": 30,
             "name": "Category 8_1",
-            "parentId": 8
+            "parentId": 8,
+            "hasChild": true
         },
         {
             "id": 31,
             "name": "Category 8_2",
-            "parentId": 8
+            "parentId": 8,
+            "hasChild": true
         },
         {
             "id": 32,
             "name": "Category 8_3",
-            "parentId": 8
+            "parentId": 8,
+            "hasChild": true
         },
         {
             "id": 33,
             "name": "Category 1_1_1",
-            "parentId": 9
+            "parentId": 9,
+            "hasChild": true
         },
         {
             "id": 34,
             "name": "Category 1_1_2",
-            "parentId": 9
+            "parentId": 9,
+            "hasChild": false
         },
         {
             "id": 35,
             "name": "Category 1_1_3",
-            "parentId": 9
+            "parentId": 9,
+            "hasChild": false
         },
         {
             "id": 36,
             "name": "Category 1_2_1",
-            "parentId": 10
+            "parentId": 10,
+            "hasChild": false
         },
         {
             "id": 37,
             "name": "Category 1_2_2",
-            "parentId": 10
+            "parentId": 10,
+            "hasChild": false
         },
         {
             "id": 38,
             "name": "Category 1_2_3",
-            "parentId": 10
+            "parentId": 10,
+            "hasChild": false
         },
         {
             "id": 39,
             "name": "Category 1_3_1",
-            "parentId": 11
+            "parentId": 11,
+            "hasChild": false
         },
         {
             "id": 40,
             "name": "Category 1_3_2",
-            "parentId": 11
+            "parentId": 11,
+            "hasChild": false
         },
         {
             "id": 41,
             "name": "Category 1_3_3",
-            "parentId": 11
+            "parentId": 11,
+            "hasChild": false
         },
         {
             "id": 42,
             "name": "Category 2_1_1",
-            "parentId": 12
+            "parentId": 12,
+            "hasChild": false
         },
         {
             "id": 43,
             "name": "Category 2_1_2",
-            "parentId": 12
+            "parentId": 12,
+            "hasChild": false
         },
         {
             "id": 44,
             "name": "Category 2_1_3",
-            "parentId": 12
+            "parentId": 12,
+            "hasChild": false
         },
         {
             "id": 45,
             "name": "Category 2_2_1",
-            "parentId": 13
+            "parentId": 13,
+            "hasChild": false
         },
         {
             "id": 46,
             "name": "Category 2_2_2",
-            "parentId": 13
+            "parentId": 13,
+            "hasChild": false
         },
         {
             "id": 47,
             "name": "Category 2_2_3",
-            "parentId": 13
+            "parentId": 13,
+            "hasChild": false
         },
         {
             "id": 48,
             "name": "Category 2_3_1",
-            "parentId": 14
+            "parentId": 14,
+            "hasChild": false
         },
         {
             "id": 49,
             "name": "Category 2_3_2",
-            "parentId": 14
+            "parentId": 14,
+            "hasChild": false
         },
         {
             "id": 50,
             "name": "Category 2_3_3",
-            "parentId": 14
+            "parentId": 14,
+            "hasChild": false
         },
         {
             "id": 51,
             "name": "Category 3_1_1",
-            "parentId": 15
+            "parentId": 15,
+            "hasChild": false
         },
         {
             "id": 52,
             "name": "Category 3_1_2",
-            "parentId": 15
+            "parentId": 15,
+            "hasChild": false
         },
         {
             "id": 53,
             "name": "Category 3_1_3",
-            "parentId": 15
+            "parentId": 15,
+            "hasChild": false
         },
         {
             "id": 54,
             "name": "Category 3_2_1",
-            "parentId": 16
+            "parentId": 16,
+            "hasChild": false
         },
         {
             "id": 55,
             "name": "Category 3_2_2",
-            "parentId": 16
+            "parentId": 16,
+            "hasChild": false
         },
         {
             "id": 56,
             "name": "Category 3_2_3",
-            "parentId": 16
+            "parentId": 16,
+            "hasChild": false
         },
         {
             "id": 57,
             "name": "Category 3_3_1",
-            "parentId": 17
+            "parentId": 17,
+            "hasChild": false
         },
         {
             "id": 58,
             "name": "Category 3_3_2",
-            "parentId": 17
+            "parentId": 17,
+            "hasChild": false
         },
         {
             "id": 59,
             "name": "Category 3_3_3",
-            "parentId": 17
+            "parentId": 17,
+            "hasChild": false
         },
         {
             "id": 60,
             "name": "Category 4_1_1",
-            "parentId": 18
+            "parentId": 18,
+            "hasChild": false
         },
         {
             "id": 61,
             "name": "Category 4_1_2",
-            "parentId": 18
+            "parentId": 18,
+            "hasChild": false
         },
         {
             "id": 62,
             "name": "Category 4_1_3",
-            "parentId": 18
+            "parentId": 18,
+            "hasChild": false
         },
         {
             "id": 63,
             "name": "Category 4_2_1",
-            "parentId": 19
+            "parentId": 19,
+            "hasChild": false
         },
         {
             "id": 64,
             "name": "Category 4_2_2",
-            "parentId": 19
+            "parentId": 19,
+            "hasChild": false
         },
         {
             "id": 65,
             "name": "Category 4_2_3",
-            "parentId": 19
+            "parentId": 19,
+            "hasChild": false
         },
         {
             "id": 66,
             "name": "Category 4_3_1",
-            "parentId": 20
+            "parentId": 20,
+            "hasChild": false
         },
         {
             "id": 67,
             "name": "Category 4_3_2",
-            "parentId": 20
-        }
-        ,
+            "parentId": 20,
+            "hasChild": false
+        },
         {
             "id": 68,
             "name": "Category 4_3_3",
-            "parentId": 20
-        }
-        ,
+            "parentId": 20,
+            "hasChild": false
+        },
         {
             "id": 69,
             "name": "Category 5_1_1",
-            "parentId": 21
+            "parentId": 21,
+            "hasChild": false
         },
         {
             "id": 70,
             "name": "Category 5_1_2",
-            "parentId": 21
+            "parentId": 21,
+            "hasChild": false
         },
         {
             "id": 71,
             "name": "Category 5_1_3",
-            "parentId": 21
+            "parentId": 21,
+            "hasChild": false
         },
         {
             "id": 72,
             "name": "Category 5_2_1",
-            "parentId": 22
+            "parentId": 22,
+            "hasChild": false
         },
         {
             "id": 73,
             "name": "Category 5_2_2",
-            "parentId": 22
+            "parentId": 22,
+            "hasChild": false
         },
         {
             "id": 74,
             "name": "Category 5_2_3",
-            "parentId": 22
+            "parentId": 22,
+            "hasChild": false
         },
         {
             "id": 75,
             "name": "Category 5_3_1",
-            "parentId": 23
+            "parentId": 23,
+            "hasChild": false
         },
         {
             "id": 76,
             "name": "Category 5_3_2",
-            "parentId": 23
+            "parentId": 23,
+            "hasChild": false
         },
         {
             "id": 77,
             "name": "Category 5_3_3",
-            "parentId": 23
+            "parentId": 23,
+            "hasChild": false
         },
         {
             "id": 78,
             "name": "Category 6_1_1",
-            "parentId": 24
+            "parentId": 24,
+            "hasChild": false
         },
         {
             "id": 79,
             "name": "Category 6_1_2",
-            "parentId": 24
+            "parentId": 24,
+            "hasChild": false
         },
         {
             "id": 80,
             "name": "Category 6_1_3",
-            "parentId": 24
+            "parentId": 24,
+            "hasChild": false
         },
         {
             "id": 81,
             "name": "Category 6_2_1",
-            "parentId": 25
+            "parentId": 25,
+            "hasChild": false
         },
         {
             "id": 82,
             "name": "Category 6_2_2",
-            "parentId": 25
+            "parentId": 25,
+            "hasChild": false
         },
         {
             "id": 83,
             "name": "Category 6_2_3",
-            "parentId": 25
+            "parentId": 25,
+            "hasChild": false
         },
         {
             "id": 84,
             "name": "Category 6_3_1",
-            "parentId": 26
-        }
-        ,
+            "parentId": 26,
+            "hasChild": false
+        },
         {
             "id": 85,
             "name": "Category 6_3_2",
-            "parentId": 26
+            "parentId": 26,
+            "hasChild": false
         },
         {
             "id": 86,
             "name": "Category 6_3_3",
-            "parentId": 26
+            "parentId": 26,
+            "hasChild": false
         },
         {
             "id": 87,
             "name": "Category 7_1_1",
-            "parentId": 27
+            "parentId": 27,
+            "hasChild": false
         },
         {
             "id": 88,
             "name": "Category 7_1_2",
-            "parentId": 27
+            "parentId": 27,
+            "hasChild": false
         },
         {
             "id": 89,
             "name": "Category 7_1_3",
-            "parentId": 27
+            "parentId": 27,
+            "hasChild": false
         },
         {
             "id": 90,
             "name": "Category 7_2_1",
-            "parentId": 28
+            "parentId": 28,
+            "hasChild": false
         },
         {
             "id": 91,
             "name": "Category 7_2_2",
-            "parentId": 28
+            "parentId": 28,
+            "hasChild": false
         },
         {
             "id": 92,
             "name": "Category 7_2_3",
-            "parentId": 28
+            "parentId": 28,
+            "hasChild": false
         },
         {
             "id": 93,
             "name": "Category 7_3_1",
-            "parentId": 29
+            "parentId": 29,
+            "hasChild": false
         },
         {
             "id": 94,
             "name": "Category 7_3_2",
-            "parentId": 29
+            "parentId": 29,
+            "hasChild": false
         },
         {
             "id": 95,
             "name": "Category 7_3_3",
-            "parentId": 29
+            "parentId": 29,
+            "hasChild": false
         },
         {
             "id": 96,
             "name": "Category 8_1_1",
-            "parentId": 30
+            "parentId": 30,
+            "hasChild": false
         },
         {
             "id": 97,
             "name": "Category 8_1_2",
-            "parentId": 30
+            "parentId": 30,
+            "hasChild": false
         },
         {
             "id": 98,
             "name": "Category 8_1_3",
-            "parentId": 30
+            "parentId": 30,
+            "hasChild": false
         },
         {
             "id": 99,
             "name": "Category 8_2_1",
-            "parentId": 31
+            "parentId": 31,
+            "hasChild": false
         },
         {
             "id": 100,
             "name": "Category 8_2_2",
-            "parentId": 31
+            "parentId": 31,
+            "hasChild": false
         },
         {
             "id": 101,
             "name": "Category 8_2_3",
-            "parentId": 31
+            "parentId": 31,
+            "hasChild": false
         },
         {
             "id": 102,
             "name": "Category 8_3_1",
-            "parentId": 32
+            "parentId": 32,
+            "hasChild": false
         },
         {
             "id": 103,
             "name": "Category 8_3_2",
-            "parentId": 32
+            "parentId": 32,
+            "hasChild": false
         },
         {
             "id": 104,
             "name": "Category 8_3_3",
-            "parentId": 32
+            "parentId": 32,
+            "hasChild": false
         },
         {
             "id": 105,
             "name": "Category 1_1_1_1",
-            "parentId": 33
+            "parentId": 33,
+            "hasChild": false
         },
         {
             "id": 106,
             "name": "Category 1_1_1_2",
-            "parentId": 33
+            "parentId": 33,
+            "hasChild": false
         }
     ]
 }
